@@ -3,3 +3,6 @@ import streamlit as st
 st.title("Proyecto Final Diploma BI")
 
 st.sidebar.title("Parámetros")
+
+st.image("logo-phyton.png")
+st.sidebar.image("logo-dmc-solo.png")
